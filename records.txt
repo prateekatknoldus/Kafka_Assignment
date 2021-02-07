@@ -1,0 +1,7 @@
+User{Id='1001', age=19, name='Prateek Gupta', course='BTech'}
+User{Id='1002', age=23, name='Shubham Gupta', course='BTech'}
+User{Id='1003', age=24, name='Shreshkar', course='BTech'}
+User{Id='1004', age=22, name='Chaitanya', course='BTech'}
+User{Id='1005', age=20, name='Sambhav', course='BTech'}
+User{Id='1006', age=28, name='Rahul', course='BTech'}
+
